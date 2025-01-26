@@ -1,6 +1,0 @@
-streamlit
-fuzzywuzzy
-pandas
-numpy
-scikit-learn
-matplotlib
